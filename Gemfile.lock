@@ -304,7 +304,7 @@ DEPENDENCIES
   puma (= 4.3.6)
   rails (= 6.0.4)
   rails-controller-testing (= 1.0.4)
-  ransack (= 1.8.4)
+  ransack
   sass-rails (= 5.1.0)
   selenium-webdriver (= 3.142.4)
   spring (= 2.1.0)
